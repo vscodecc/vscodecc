@@ -1,1 +1,1 @@
-# vscodecc
+# VS Code 中文社区主仓库
