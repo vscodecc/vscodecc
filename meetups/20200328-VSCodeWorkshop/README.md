@@ -3,7 +3,7 @@
 ## 回放视频
 
 * 2020 年 3 月 28 日，[在线 Workshop 基础篇](https://www.bilibili.com/video/BV1LA411h7Yc)
-* 2020 年 4 月 11 日，在线 Workshop 进阶篇
+* 2020 年 4 月 11 日，[在线 Workshop 进阶篇](https://www.bilibili.com/video/BV1qa4y1x7RN)
 
 ## 讲师介绍
 
