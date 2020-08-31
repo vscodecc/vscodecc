@@ -2,7 +2,7 @@
 
 ## 回放视频
 
-* 2020 年 6 月 19 日，[VS Code 插件开发](https://www.bilibili.com/video/BV1pf4y1979a)
+* 2020 年 7 月 18 日，[VS Code 插件开发](https://www.bilibili.com/video/BV1pf4y1979a)
 
 ## 讲师介绍
 
