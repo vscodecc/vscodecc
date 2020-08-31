@@ -2,7 +2,7 @@
 
 ## 回放视频
 
-coming soon.
+* 2020 年 6 月 19 日，[在 VS Code 中一站式完成 Python 项目开发](https://www.bilibili.com/video/BV1v54y1q7Zi)
 
 ## 讲师介绍
 

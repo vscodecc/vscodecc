@@ -2,7 +2,7 @@
 
 ## 回放视频
 
-* 2020 年 5 月 23 日，[ VS Code 中的 Java 语言实战](https://www.bilibili.com/video/BV1aV411r7Gf)
+* 2020 年 5 月 23 日，[VS Code 中的 Java 语言实战](https://www.bilibili.com/video/BV1aV411r7Gf)
 
 ## 讲师介绍
 
