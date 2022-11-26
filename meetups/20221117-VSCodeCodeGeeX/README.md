@@ -6,6 +6,13 @@ CodeGeeX 支持多种主流编程语言的高精度代码生成及翻译，是�
 
 本期 VS Code 开发分享，清华大学知识工程实验室研究助理郑勤锴老师，将在线为我们详细介绍 CodeGeeX 背后的技术原理、实现过程、评估指标，以及 VS Code 插件的实现、使用教程、后续开发计划等。 
 
+## 活动回顾
+
+2022 年 11 月 17 日
+
+* [视频回顾](https://www.bilibili.com/video/BV1m24y1y7Rr)
+* [文字版回顾](https://mp.weixin.qq.com/s/MD15IX4LnOnS5Lty_U5SiQ)
+
 ## 讲师介绍
 
 郑勤锴 
